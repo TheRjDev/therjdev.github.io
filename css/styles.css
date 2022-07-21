@@ -35,3 +35,9 @@ body {
     background-color: #383838;
     border-radius: 25px
 }
+
+@media(hover: hover) and (pointer: fine) {
+    #Menu a:hover {
+        background: #383838;
+    }
+}
