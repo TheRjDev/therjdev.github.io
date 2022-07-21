@@ -36,7 +36,7 @@ body {
     border-radius: 25px
 }
 
-@media(hover: hover) and (pointer: fine) {
+@media(hover:hover) , (hover:on-demand) {
     #Menu a:hover {
         background: #383838;
     }
