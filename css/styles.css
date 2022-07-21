@@ -6,14 +6,14 @@ body {
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    text-align: center;
-   /*  -webkit-tap-highlight-color: #ccc; */
+    text-align: center;    
 }
 
 #header {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
     padding: 3px 3px;
+    -webkit-tap-highlight-color: #383838;
 }
 
 #Menu {
@@ -34,10 +34,4 @@ body {
 #Menu a:hover {
     background-color: #383838;
     border-radius: 25px
-}
-
-@media(hover:hover) , (hover:on-demand) {
-    #Menu a:hover {
-        background: #383838;
-    }
 }
