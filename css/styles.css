@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #333;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
@@ -10,13 +10,13 @@ body{
     -webkit-tap-highlight-color: #ccc;
 }
 
-#header{
+#header {
     background-color: #fff;
     border-bottom: 1px solid #ddd;
     padding: 3px 3px;
 }
 
-#Menu{
+#Menu {
     display: flex;
     justify-content: space-around;
     list-style: none;
@@ -27,11 +27,11 @@ body{
     color: White;
     text-decoration: none;
     text-align: center;
-    padding: 9px; 
+    padding: 9px;
 }
 
-#Menu a:hover, #Menu a:active {
+#Menu a:active,
+#Menu a:hover {
     background-color: #383838;
     border-radius: 25px
-
 }
