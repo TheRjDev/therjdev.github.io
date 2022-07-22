@@ -33,22 +33,22 @@ nav {
     z-index: 100;
 }
 
-#Menu {
+.menu {
     display: flex;
     justify-content: space-around;
     list-style: none;
     padding: 0px;
 }
 
-#Menu a {
+.menu a {
     color: White;
     text-decoration: none;
     text-align: center;
     padding: 9px;
 }
 
-#Menu a:active,
-#Menu a:hover {
+.menu a:active,
+.menu a:hover {
     background-color: #383838;
     border-radius: 25px
 }
@@ -61,13 +61,13 @@ nav {
     z-index: -100;
 }
 
-#Card-Container {
+#card-container {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#Personal-Card {
+#personal-card {
     background-color: #333;
     border-radius: 25px;
     padding: 10px;
@@ -78,7 +78,7 @@ nav {
     width: 200px;
 }
 
-#Personal-Card img {
+#personal-card img {
     width: 100%;
     border-radius: 25px;
 }
@@ -91,7 +91,7 @@ nav {
     background-image: radial-gradient(rgba(0, 150, 0, 0.75), black 120%);
 }
 
-#Personal-Card p {
+#personal-card p {
     font-size: 1.2rem;
     margin: 0;
     padding: 0;
