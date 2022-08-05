@@ -79,7 +79,9 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 15px;
 }
+
 #personal-card {
     background-color: #333;
     border-radius: 25px;
@@ -111,9 +113,3 @@ main {
     padding: 0;
 }
 
-.card{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 15px;
-}
