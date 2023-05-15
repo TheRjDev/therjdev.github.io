@@ -137,6 +137,10 @@ main {
     margin-bottom: 10px;
 }
 
+#journal img {
+    width: 80%;
+}
+
 #subtitle {
     font-style: italic;
     font-size: 0.8rem;
