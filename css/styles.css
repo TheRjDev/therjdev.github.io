@@ -120,8 +120,6 @@ main {
 #journal p {
     margin-bottom: 10px;
     text-align: left;
-    /* make the text take 80% of its container*/
-    width: 80%;
     margin-left: 5px;
 }
 
