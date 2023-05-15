@@ -122,6 +122,7 @@ main {
     text-align: left;
     /* make the text take 80% of its container*/
     width: 80%;
+    margin-left: 5px;
 }
 
 #journal h2 {
